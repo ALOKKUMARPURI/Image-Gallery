@@ -1,2 +1,2 @@
-# HTML-CSS-TAILWIND
+# HTML-CSS
 Showcase Projects on HTML,CSS
